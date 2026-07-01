@@ -3,3 +3,4 @@
 
 Here is how it looks:
 
+screenshot.png
